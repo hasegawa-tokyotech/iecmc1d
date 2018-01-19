@@ -1,2 +1,2 @@
 # iecmc1d
-1 dimensional Monte Carlo project
+One dimensional Monte Carlo simulation for IEC devices
